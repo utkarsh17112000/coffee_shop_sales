@@ -24,9 +24,9 @@ The project was completed using Excel for business analysis, MySQL for advanced 
 
 - 📂 **GitHub Repository** — [Click Here](https://github.com/utkarsh17112000)
 
-- 📊 **Tableau Public Dashboard** — [Click Here](https://public.tableau.com/app/profile/utkarsh.thakur4981)
+- 📊 **Tableau Public Dashboard** — [Click Here](https://public.tableau.com/views/GlobalCoffeeShopSalesPerformanceAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- 📈 **Excel Workbook** — [Click Here](https://docs.google.com)
+- 📈 **Excel Workbook** — [Click Here]([https://docs.google.com](https://docs.google.com/spreadsheets/d/19PPaPECuGeH3x1Ldyf4mieSvIY7teDp2/edit?usp=drive_link&ouid=108827164403131059178&rtpof=true&sd=true))
 
 ---
 
